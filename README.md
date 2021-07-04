@@ -4,7 +4,7 @@
 **margarita-solov/margarita-solov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --->
-Welcome to my repository! Here are some of my projects:
+Thanks for stopping by and welcome to my repository! Here are some of my projects:
 
 [SQL](https://nbviewer.jupyter.org/github/margarita-solov/projects/blob/main/SQL.ipynb)
 
