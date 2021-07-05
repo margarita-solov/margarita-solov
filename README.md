@@ -12,4 +12,4 @@ Thanks for stopping by and welcome to my repository! Here are some of my project
 
 [Predictive Analytics](https://nbviewer.jupyter.org/github/margarita-solov/predictive_analytics_/blob/main/Predictive_Analytics_Project.ipynb)
 
-[A/B Testing](https://nbviewer.jupyter.org/github/margarita-solov/ab_testing/blob/main/A_B%20testing__.ipynb)
+[A/B Testing](https://nbviewer.jupyter.org/github/margarita-solov/ab_test/blob/main/A_B%20test.ipynb)
