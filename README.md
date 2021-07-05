@@ -11,7 +11,7 @@ Thanks for stopping by and welcome to my repository! Here are some of my project
 
 [Identifying Ineffective Operators](https://nbviewer.jupyter.org/github/margarita-solov/projects/blob/main/Ineffective%20operators%20ranking.ipynb)
 
-[Predictive Analytics](https://nbviewer.jupyter.org/github/margarita-solov/predictive_analytics/blob/main/Predictive_Analytics.ipynb)
+[Predictive Analytics](https://nbviewer.jupyter.org/github/margarita-solov/predictive_analytics_/blob/main/Predictive_Analytics_Project.ipynb)
 
 
 [A/B Testing](https://nbviewer.jupyter.org/github/margarita-solov/ab_testing/blob/main/A_B%20testing__.ipynb)
